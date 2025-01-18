@@ -1,5 +1,13 @@
 
 
+@media  screen and (max-width: 1600px){
+    .header-main{
+        padding-top: 50px;
+    }
+    .header-bottom{
+        bottom: 50px;
+    }
+}
 @media  screen and (max-width: 1199px){
     .header-top{
         width: 60%;

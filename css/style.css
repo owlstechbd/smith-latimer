@@ -207,9 +207,7 @@ h2{
     letter-spacing: 2px;
     
 }
-.service-box:hover h4{
-    transform: scale(1.2);
-}
+
 .service-box h4{
     margin-bottom: 0;
     text-transform: uppercase;
