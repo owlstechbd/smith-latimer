@@ -234,23 +234,36 @@ h2{
     width: 120px;
 }
 .solution-main h5{
-    font-size: 22px;
+    font-size: 25px;
     margin-top: 30px;
-    
     color: rgba(255, 255, 255, 1);
-    font-weight: 400;
+    font-weight: 300;
+    text-transform: uppercase;
 }
 .solution-main h5 span{
-    
     color: rgba(228, 219, 120, 1);
     font-weight: 600;
     letter-spacing: 2px;
+}
+.sector-solution{
+    width: 80%;
+    margin: 0 auto;
+}
+.sector-solution h5{
+    font-size: 23px;
+    text-transform:none;
+    font-weight: 300;
+}
+.sector-solution h5 span{
+    color: rgba(228, 219, 120, 1);
+    font-weight: 600;
+    letter-spacing: normal;
 }
 .solution-btn{
     margin-top: 30px;
 }
 .solution-btn a{
-    padding: 8px 25px;
+    padding: 12px 25px;
     color: rgb(0, 0, 0);
     font-weight: 500;
     text-decoration: none;
@@ -373,6 +386,7 @@ h2{
     color: rgba(89, 121, 153, 1);
     font-weight: 400;
     text-transform: uppercase;
+    margin-bottom: 40px;
 }
 .about-us-main p{
     color: rgba(246, 246, 246, 1);
